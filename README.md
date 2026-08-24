@@ -22,7 +22,7 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 # 👩‍💻 About Me
 
-🎓 **M.S. in Data Science** | University of North Texas (GPA: **4.0/4.0**)
+🎓 **M.S. in Data Science** | University of North Texas | **GPA: 4.0/4.0**
 
 ☁️ **AWS Certified Solutions Architect – Associate** with **3+ years of combined professional experience**
 
@@ -97,11 +97,11 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 </p>
 
-**AWS EC2 • Amazon S3 • IAM • CloudWatch**
+**AWS:** EC2 • S3 • IAM • CloudWatch
 
-**Azure Virtual Machines • Azure Storage • Azure Monitor • Azure Networking**
+**Azure:** Virtual Machines • Storage • Monitor • Networking
 
-**Google Cloud Dataproc • BigQuery • Cloud Storage**
+**Google Cloud:** Dataproc • BigQuery • Cloud Storage
 
 ---
 
@@ -155,40 +155,41 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 ## Cross Functional IT Support Specialist
 
 **University of North Texas**
-*Dec 2024 – May 2026 | Denton, TX*
+*December 2024 – May 2026 | Denton, TX*
 
 * Managed operational datasets and asset lifecycle for **240+ university devices**
 * Analyzed recurring technical issues and operational metrics to identify root causes
 * Improved troubleshooting efficiency by approximately **20%**
-* Supported deployment, configuration, patch management, and system maintenance
-* Collaborated with cross-functional IT teams to improve system reliability
+* Supported deployment, configuration, patch management, and maintenance
+* Collaborated with cross-functional IT teams to troubleshoot issues and maintain reliable systems
 
 ---
 
 ## Lead Solution Engineer
 
 **Dallas AI Summer Program**
-*May 2025 – Aug 2025 | Dallas, TX*
+*May 2025 – August 2025 | Dallas, TX*
 
 * Led solution engineering for **Intelli AI**, an NLP-powered internal talent-matching platform
 * Developed semantic matching workflows using sentence embeddings and similarity scoring
 * Achieved **90%+ matching accuracy**
-* Built automated candidate communication workflows using the Gmail API
+* Built automated candidate communication workflows using the **Gmail API**
 * Collaborated with a cross-functional team to develop an end-to-end AI application
+* Presented the solution to program mentors and stakeholders
 
 ---
 
 ## Cloud Support Engineer
 
 **Cloud4C | Client: DHL**
-*Jun 2022 – Jul 2024 | India*
+*June 2022 – July 2024 | India*
 
 * Managed enterprise cloud infrastructure across **Microsoft Azure**
 * Performed VM provisioning, snapshots, disk expansion, image deployment, scaling, and maintenance
-* Monitored infrastructure using **Azure Monitor and Splunk**
+* Monitored infrastructure health and alerts using **Azure Monitor and Splunk**
 * Automated repetitive operational tasks using **Python and PowerShell**
-* Collaborated with engineering and Microsoft support teams to troubleshoot production issues
-* Performed root cause analysis and supported infrastructure reliability
+* Collaborated with engineering, infrastructure, and Microsoft support teams
+* Supported production troubleshooting and **Root Cause Analysis (RCA)**
 
 ---
 
@@ -216,12 +217,7 @@ AI-powered fraud detection system combining NLP, anomaly detection, and machine 
 
 ### Technologies
 
-* Python
-* BERT
-* Isolation Forest
-* XGBoost
-* SHAP
-* Streamlit
+**Python • BERT • Isolation Forest • XGBoost • SHAP • Streamlit**
 
 ### Highlights
 
@@ -243,7 +239,7 @@ AI-powered data analysis agent that automates end-to-end analytics and machine l
 
 ### Features
 
-* Automated EDA
+* Automated Exploratory Data Analysis
 * Feature Engineering
 * Model Training
 * Model Evaluation
@@ -262,11 +258,12 @@ Retrieval-Augmented Generation application for document-based question answering
 ### Features
 
 * Dynamic PDF ingestion
-* Document embeddings
+* Document embedding generation
 * Semantic retrieval
 * Vector similarity search
 * Source-backed responses
 * Prompt engineering
+* Hallucination reduction
 
 **Tech:** Python • LangChain • ChromaDB • Streamlit • Sentence Transformers • Groq API
 
@@ -274,7 +271,7 @@ Retrieval-Augmented Generation application for document-based question answering
 
 ## 💼 Intelli AI – Internal Talent Matching System
 
-NLP-powered internal talent matching platform developed during the Dallas AI Summer Program.
+NLP-powered internal talent-matching platform developed during the Dallas AI Summer Program.
 
 ### Features
 
@@ -282,7 +279,7 @@ NLP-powered internal talent matching platform developed during the Dallas AI Sum
 * Semantic similarity
 * Sentence embeddings
 * Skill matching
-* Automated Gmail notifications
+* Automated candidate communication
 
 **Tech:** Python • NLP • PostgreSQL • Gmail API
 
@@ -328,7 +325,7 @@ Full-stack AI web application powered by Google Gemini.
 
 **University of North Texas**
 
-🎓 GPA: **4.0 / 4.0**
+🎓 **GPA: 4.0 / 4.0**
 
 ---
 
@@ -338,34 +335,10 @@ Full-stack AI web application powered by Google Gemini.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kusuma19072001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusuma19072001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kusuma19072001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kusuma19072001&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kusuma19072001&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
