@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kusuma Chalasani</h1>
 
 <h3 align="center">
-AI Engineer • Data Scientist • Machine Learning Engineer
+AI & Cloud Engineer • Data Scientist • Machine Learning Engineer
 </h3>
 
 <p align="center">
-Building AI-powered applications using Machine Learning, LLMs, RAG, Data Engineering, and Cloud Technologies.
+Building AI-powered and cloud-native applications using Machine Learning, LLMs, RAG, Data Engineering, and Cloud Technologies.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Data+Engineering+%7C+Cloud+Computing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Cloud+Engineer;Machine+Learning+Engineer;Data+Scientist;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Data+Engineering+%7C+Cloud+Computing" />
 </p>
 
 <p align="center">
@@ -24,15 +24,17 @@ Building AI-powered applications using Machine Learning, LLMs, RAG, Data Enginee
 
 🎓 **M.S. in Data Science** | University of North Texas (GPA: **4.0/4.0**)
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Engineering, and Intelligent Automation**
+☁️ **AWS Certified Solutions Architect – Associate** with **3+ years of combined professional experience**
 
-💡 Experienced in building **LLM applications, Retrieval-Augmented Generation (RAG) systems, AI Agents, scalable data pipelines, and end-to-end ML solutions**
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, and Intelligent Automation**
 
-☁️ Skilled in **AWS, Azure, Google Cloud Platform, Python, SQL, LangChain, Streamlit, and React**
+💡 Experienced in building **LLM applications, Retrieval-Augmented Generation (RAG) systems, AI Agents, machine learning solutions, data pipelines, and cloud-native applications**
 
-🌱 Currently exploring **Agentic AI, LangGraph, Model Context Protocol (MCP), and Multi-Agent Systems**
+☁️ Hands-on experience with **AWS, Microsoft Azure, Google Cloud, Python, SQL, and modern AI frameworks**
 
-💼 Open to **AI Engineer • Machine Learning Engineer • Data Scientist • Data Engineer** opportunities
+🌱 Currently exploring **Agentic AI, advanced RAG systems, AI automation, and cloud-native AI applications**
+
+💼 Open to **AI Engineer • Cloud Engineer • Machine Learning Engineer • Data Scientist • Data Engineer** opportunities
 
 ---
 
@@ -58,58 +60,83 @@ Building AI-powered applications using Machine Learning, LLMs, RAG, Data Enginee
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 </p>
+
+**Python • SQL • PowerShell**
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Agentic AI Workflows
-- LangChain
-- LangGraph
-- BERT
-- Sentence Transformers
-- XGBoost
-- SHAP
-- Scikit-Learn
-- Pandas
-- NumPy
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Natural Language Processing (NLP)
+* Prompt Engineering
+* LangChain
+* OpenAI API
+* Google Gemini API
+* Machine Learning
+* BERT
+* Sentence Transformers
+* XGBoost
+* SHAP
+* Scikit-Learn
+* Pandas
+* NumPy
 
 ---
 
-## ☁️ Cloud
+## ☁️ Cloud & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 </p>
 
+**AWS EC2 • Amazon S3 • IAM • CloudWatch**
+
+**Azure Virtual Machines • Azure Storage • Azure Monitor • Azure Networking**
+
+**Google Cloud Dataproc • BigQuery • Cloud Storage**
+
 ---
 
-## 🌐 Frameworks
+## 📊 Data Engineering & Analytics
+
+* Data Pipelines
+* ETL
+* Exploratory Data Analysis
+* Feature Engineering
+* PySpark
+* BigQuery
+* Data Visualization
+* Tableau
+* Dashboard Development
+* Excel
+
+---
+
+## 🌐 Backend & Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind"/>
 </p>
+
+**REST APIs • Streamlit • TypeScript**
 
 ---
 
 ## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
 </p>
 
-**ChromaDB • BigQuery**
+**PostgreSQL • SQLite • ChromaDB • IndexedDB**
 
 ---
 
@@ -119,7 +146,7 @@ Building AI-powered applications using Machine Learning, LLMs, RAG, Data Enginee
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 </p>
 
-Splunk • ServiceNow • Jupyter Notebook • Google Colab
+**Splunk • ServiceNow • Jupyter Notebook • Google Colab**
 
 ---
 
@@ -127,123 +154,171 @@ Splunk • ServiceNow • Jupyter Notebook • Google Colab
 
 ## Cross Functional IT Support Specialist
 
-**University of North Texas**  
-*Dec 2024 – May 2026*
+**University of North Texas**
+*Dec 2024 – May 2026 | Denton, TX*
 
-- Managed operational datasets for 240+ university devices.
-- Improved troubleshooting efficiency through data-driven analysis.
-- Built reporting and documentation workflows.
-- Supported deployment, maintenance, and operational reliability.
+* Managed operational datasets and asset lifecycle for **240+ university devices**
+* Analyzed recurring technical issues and operational metrics to identify root causes
+* Improved troubleshooting efficiency by approximately **20%**
+* Supported deployment, configuration, patch management, and system maintenance
+* Collaborated with cross-functional IT teams to improve system reliability
+
+---
+
+## Lead Solution Engineer
+
+**Dallas AI Summer Program**
+*May 2025 – Aug 2025 | Dallas, TX*
+
+* Led solution engineering for **Intelli AI**, an NLP-powered internal talent-matching platform
+* Developed semantic matching workflows using sentence embeddings and similarity scoring
+* Achieved **90%+ matching accuracy**
+* Built automated candidate communication workflows using the Gmail API
+* Collaborated with a cross-functional team to develop an end-to-end AI application
 
 ---
 
 ## Cloud Support Engineer
 
-**Cloud4C (Client: DHL)**  
-*Jun 2022 – Jul 2024*
+**Cloud4C | Client: DHL**
+*Jun 2022 – Jul 2024 | India*
 
-- Managed Azure virtual infrastructure.
-- Automated operational tasks using Python & PowerShell.
-- Monitored infrastructure using Splunk.
-- Worked with ServiceNow incident management.
-- Managed Windows/Linux virtual machines and cloud resources.
+* Managed enterprise cloud infrastructure across **Microsoft Azure**
+* Performed VM provisioning, snapshots, disk expansion, image deployment, scaling, and maintenance
+* Monitored infrastructure using **Azure Monitor and Splunk**
+* Automated repetitive operational tasks using **Python and PowerShell**
+* Collaborated with engineering and Microsoft support teams to troubleshoot production issues
+* Performed root cause analysis and supported infrastructure reliability
 
 ---
 
 # 🏆 Certifications
 
-🏅 AWS Certified Solutions Architect – Associate
+🏅 **AWS Certified Solutions Architect – Associate** | AWS | 2026
 
-🏅 Oracle Cloud Infrastructure 2025 Generative AI Professional
+🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** | Oracle | 2025
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
+🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | 2023
 
-🏅 Anthropic Claude 101
+🏅 **Introduction to Model Context Protocol (MCP)** | Anthropic | 2026
 
-🏅 AI Fluency: Framework & Foundations
+🏅 **AI Fluency: Framework & Foundations** | Anthropic | 2026
 
-🏅 Introduction to Model Context Protocol (MCP)
+🏅 **Claude 101** | Anthropic | 2026
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡 AI Guardian – Fraudulent Job Post Detection
+## 🛡 AI Guardian – Fraudulent Job Post Detection System
 
-Hybrid fraud detection platform using:
+AI-powered fraud detection system combining NLP, anomaly detection, and machine learning.
 
-- BERT
-- Isolation Forest
-- XGBoost
-- SHAP
-- Streamlit
+### Technologies
+
+* Python
+* BERT
+* Isolation Forest
+* XGBoost
+* SHAP
+* Streamlit
 
 ### Highlights
 
-✔ 99% Validation Accuracy
+✔ Hybrid fraud detection pipeline
 
-✔ Explainable AI
+✔ NLP + anomaly detection
 
-✔ Fraud Detection using NLP + ML
+✔ Feature engineering and EDA
+
+✔ Explainable AI using SHAP
+
+✔ Evaluation using Precision, Recall, and F1-score
 
 ---
 
-## 📊 AI-Powered Data Scientist Agent
+## 📊 AI-Powered Data Scientist Agent & Explainable AI Dashboard
 
-An intelligent analytics platform automating:
+AI-powered data analysis agent that automates end-to-end analytics and machine learning workflows.
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning
-- Explainable AI
-- Interactive Dashboards
+### Features
 
-**Tech:** Python • Streamlit • React • OpenAI API
+* Automated EDA
+* Feature Engineering
+* Model Training
+* Model Evaluation
+* Explainable AI
+* Interactive Dashboards
+* AI-generated Analytical Insights
+
+**Tech:** Python • Scikit-learn • Pandas • Streamlit • React • OpenAI API
 
 ---
 
 ## 📚 RAG-Based AI Interview Prep Assistant
 
-An intelligent document-based question answering system using Retrieval-Augmented Generation.
+Retrieval-Augmented Generation application for document-based question answering.
 
 ### Features
 
-- PDF Ingestion
-- Semantic Search
-- ChromaDB
-- Source-backed Responses
+* Dynamic PDF ingestion
+* Document embeddings
+* Semantic retrieval
+* Vector similarity search
+* Source-backed responses
+* Prompt engineering
 
-**Tech:** LangChain • ChromaDB • Sentence Transformers • Groq API
+**Tech:** Python • LangChain • ChromaDB • Streamlit • Sentence Transformers • Groq API
 
 ---
 
 ## 💼 Intelli AI – Internal Talent Matching System
 
-AI-powered employee-job matching platform.
+NLP-powered internal talent matching platform developed during the Dallas AI Summer Program.
 
 ### Features
 
-- Resume Matching
-- Semantic Search
-- Skill Similarity
-- Gmail Notifications
+* Candidate-job matching
+* Semantic similarity
+* Sentence embeddings
+* Skill matching
+* Automated Gmail notifications
 
-**Tech:** Python • PostgreSQL • NLP • Gmail API
+**Tech:** Python • NLP • PostgreSQL • Gmail API
 
 ---
 
 ## 🚔 Real-Time Crime Data Streaming & Visualization
 
-Real-time analytics platform using Google Cloud.
+Real-time data engineering and analytics pipeline built on Google Cloud.
 
-### Technologies
+### Features
 
-- PySpark
-- Dataproc
-- BigQuery
-- Cloud Storage
-- Python
+* Real-time streaming
+* Scalable ETL workflows
+* Crime trend analysis
+* Data warehousing
+* Analytical dashboards
+
+**Tech:** PySpark • Google Cloud Dataproc • BigQuery • Cloud Storage • Python
+
+---
+
+## 💜 LUMA – AI-Powered Emotional Wellness Companion
+
+Full-stack AI web application powered by Google Gemini.
+
+### Features
+
+* AI conversational support
+* Context retention
+* Tone analysis
+* AI-assisted journaling
+* Mood tracking
+* Analytics dashboards
+* AI-generated visualizations
+
+**Tech:** React • TypeScript • Google Gemini API • IndexedDB • Tailwind CSS • Recharts • Web Speech API
 
 ---
 
@@ -257,11 +332,9 @@ Real-time analytics platform using Google Cloud.
 
 ---
 
-## Bachelor of Science
+## Bachelor of Science in Data Science & Data Analytics
 
-**Data Science & Data Analytics**
-
-Loyola Academy Degree & PG College
+**Loyola Academy Degree & PG College**
 
 ---
 
@@ -299,17 +372,17 @@ Loyola Academy Degree & PG College
 
 # 📚 Currently Learning
 
-- AI Agents
-- LangGraph
-- Model Context Protocol (MCP)
-- Agentic AI Workflows
-- Multi-Agent Systems
-- Advanced Retrieval-Augmented Generation
+* Agentic AI
+* AI Agents
+* Advanced RAG Systems
+* AI Workflow Automation
+* Cloud-Native AI Applications
+* Production AI Systems
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always excited to collaborate on **Artificial Intelligence, Machine Learning, Data Science, Cloud Computing, and Open Source** projects.
+I'm always interested in collaborating on **Artificial Intelligence, Machine Learning, Data Engineering, Cloud Computing, and Open Source** projects.
 
 ⭐ Feel free to explore my repositories and connect with me!
