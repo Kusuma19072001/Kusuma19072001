@@ -1,15 +1,17 @@
+# GitHub Profile README
+
 <h1 align="center">Hi 👋, I'm Kusuma Chalasani</h1>
 
 <h3 align="center">
-AI & Cloud Engineer • Data Scientist • Machine Learning Engineer
+AI & Cloud Engineer • AWS Cloud Engineer Intern • Data Scientist
 </h3>
 
 <p align="center">
-Building AI-powered and cloud-native applications using Machine Learning, LLMs, RAG, Data Engineering, and Cloud Technologies.
+Building AI-powered applications and cloud-native solutions with AWS, Azure, Machine Learning, Generative AI, and Infrastructure as Code.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Cloud+Engineer;Machine+Learning+Engineer;Data+Scientist;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Data+Engineering+%7C+Cloud+Computing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer+Intern+%40+IDX+Exchange;AI+%26+Cloud+Engineer;Cloud+Infrastructure+%7C+Terraform+%7C+CI%2FCD;Machine+Learning+%7C+Generative+AI;Building+Cloud-Native+Applications;AWS+%7C+Azure+%7C+Google+Cloud" />
 </p>
 
 <p align="center">
@@ -24,17 +26,21 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 🎓 **M.S. in Data Science** | University of North Texas | **GPA: 4.0/4.0**
 
-☁️ **AWS Certified Solutions Architect – Associate** with **3+ years of combined professional experience**
+☁️ **AWS Certified Solutions Architect – Associate**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, and Intelligent Automation**
+🚀 Currently an **AWS Cloud Engineer Intern at IDX Exchange**, gaining hands-on experience in cloud infrastructure, automation, deployment, security, and monitoring.
 
-💡 Experienced in building **LLM applications, Retrieval-Augmented Generation (RAG) systems, AI Agents, machine learning solutions, data pipelines, and cloud-native applications**
+💼 **3+ years of combined professional experience**, including enterprise Azure cloud operations, IT operations, and applied AI solution development.
 
-☁️ Hands-on experience with **AWS, Microsoft Azure, Google Cloud, Python, SQL, and modern AI frameworks**
+🤖 Experienced in building AI-powered applications, Retrieval-Augmented Generation (RAG) systems, machine learning solutions, and intelligent automation workflows.
 
-🌱 Currently exploring **Agentic AI, advanced RAG systems, AI automation, and cloud-native AI applications**
+🛠️ Developing cloud engineering skills in **AWS, Terraform, Docker, CI/CD, GitHub Actions, and Infrastructure as Code (IaC)**.
 
-💼 Open to **AI Engineer • Cloud Engineer • Machine Learning Engineer • Data Scientist • Data Engineer** opportunities
+🔐 Exploring cloud security, IAM, OIDC-based deployments, monitoring, cost optimization, and AWS Well-Architected best practices.
+
+🌱 Continuously learning how to build, deploy, secure, monitor, and scale production-ready cloud and AI applications.
+
+💼 Interested in **Cloud Engineer • AWS Cloud Engineer • AI Engineer • Machine Learning Engineer • Data Engineer** opportunities.
 
 ---
 
@@ -60,7 +66,7 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css"/>
@@ -70,63 +76,109 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 ---
 
-## 🤖 AI & Machine Learning
+## ☁️ AWS Cloud Engineering
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Natural Language Processing (NLP)
-* Prompt Engineering
-* LangChain
-* OpenAI API
-* Google Gemini API
-* Machine Learning
-* BERT
-* Sentence Transformers
-* XGBoost
-* SHAP
-* Scikit-Learn
-* Pandas
-* NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker"/>
+</p>
+
+**Compute & Networking**
+- Amazon EC2
+- Amazon VPC
+- Application Load Balancer (ALB)
+- Auto Scaling
+- AWS Lambda
+- Amazon API Gateway
+
+**Storage & Databases**
+- Amazon S3
+- Amazon RDS
+- Amazon DynamoDB
+
+**Identity, Security & Operations**
+- AWS IAM
+- IAM Roles and Policies
+- AWS CloudWatch
+- AWS Secrets Manager
+- AWS Cost Explorer
+- AWS Trusted Advisor
+- AWS Well-Architected Framework
+
+**Infrastructure & Automation**
+- Terraform
+- Infrastructure as Code (IaC)
+- Docker and Containerization
+- GitHub Actions
+- CI/CD Pipelines
+- OpenID Connect (OIDC)
+- AWS CLI
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Other Cloud Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+<img src="https://skillicons.dev/icons?i=azure,gcp"/>
 </p>
 
-**AWS:** EC2 • S3 • IAM • CloudWatch
+**Microsoft Azure**
+- Azure Virtual Machines
+- Azure Storage
+- Azure Monitor
+- Azure Networking
+- Cloud Operations
 
-**Azure:** Virtual Machines • Storage • Monitor • Networking
+**Google Cloud Platform**
+- Google Cloud Dataproc
+- BigQuery
+- Cloud Storage
+- PySpark Data Processing
 
-**Google Cloud:** Dataproc • BigQuery • Cloud Storage
+---
+
+## 🤖 AI & Machine Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Natural Language Processing (NLP)
+- Prompt Engineering
+- LangChain
+- OpenAI API
+- Google Gemini API
+- BERT
+- Sentence Transformers
+- XGBoost
+- SHAP
+- Scikit-learn
+- Pandas
+- NumPy
+- Model Training and Evaluation
 
 ---
 
 ## 📊 Data Engineering & Analytics
 
-* Data Pipelines
-* ETL
-* Exploratory Data Analysis
-* Feature Engineering
-* PySpark
-* BigQuery
-* Data Visualization
-* Tableau
-* Dashboard Development
-* Excel
+- Data Pipelines
+- ETL Workflows
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- PySpark
+- BigQuery
+- Data Visualization
+- Tableau
+- Dashboard Development
+- Excel
 
 ---
 
-## 🌐 Backend & Web
+## 🌐 Backend & Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind"/>
 </p>
 
-**REST APIs • Streamlit • TypeScript**
+**React.js • TypeScript • Flask • FastAPI • Streamlit • REST APIs**
 
 ---
 
@@ -140,56 +192,86 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 ---
 
-## 🛠 Tools
+## 🛠 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 </p>
 
-**Splunk • ServiceNow • Jupyter Notebook • Google Colab**
+**Git • GitHub • Terraform • AWS CLI • GitHub Actions • Splunk • ServiceNow • Jupyter Notebook • Google Colab**
 
 ---
 
 # 💼 Professional Experience
 
-## Cross Functional IT Support Specialist
+## ☁️ AWS Cloud Engineer Intern
 
-**University of North Texas**
+**IDX Exchange | Remote**  
+*September 2026 – Present*
+
+Participating in a 12-week cloud engineering internship focused on deploying, securing, automating, and operating cloud-native applications on AWS.
+
+**Key Learning Areas & Hands-On Work**
+
+- Configuring AWS environments, IAM users, groups, roles, and least-privilege policies.
+- Deploying and managing cloud applications on Amazon EC2.
+- Configuring security groups and restricting administrative access.
+- Working with Amazon S3 storage, storage classes, versioning, and lifecycle policies.
+- Exploring Amazon RDS and DynamoDB for relational and NoSQL data storage.
+- Learning Terraform for Infrastructure as Code.
+- Exploring CI/CD automation using GitHub Actions and OIDC-based AWS deployments.
+- Studying containerized application deployment using Docker and Amazon ECS with Fargate.
+- Exploring AWS Lambda, API Gateway, Application Load Balancers, and Auto Scaling.
+- Learning monitoring, security, and cost optimization using CloudWatch, Secrets Manager, Cost Explorer, and Trusted Advisor.
+- Applying AWS Well-Architected Framework principles to cloud application design.
+
+**Capstone Project: PropertyLite**
+
+Working with a cloud application deployment workflow involving a Flask API, AWS infrastructure, and cloud operations practices.
+
+**Technologies:** AWS • EC2 • IAM • S3 • VPC • Terraform • Docker • GitHub Actions • CI/CD • Python • Flask
+
+---
+
+## 💻 Cross Functional IT Support Specialist
+
+**University of North Texas**  
 *December 2024 – May 2026 | Denton, TX*
 
-* Managed operational datasets and asset lifecycle for **240+ university devices**
-* Analyzed recurring technical issues and operational metrics to identify root causes
-* Improved troubleshooting efficiency by approximately **20%**
-* Supported deployment, configuration, patch management, and maintenance
-* Collaborated with cross-functional IT teams to troubleshoot issues and maintain reliable systems
+- Managed operational datasets and asset lifecycle for **240+ university devices**.
+- Analyzed recurring technical issues and operational metrics to identify root causes.
+- Improved troubleshooting efficiency by approximately **20%** through data-driven insights.
+- Supported deployment, configuration, patch management, and maintenance of Windows systems.
+- Collaborated with cross-functional IT teams to troubleshoot issues and maintain system reliability.
 
 ---
 
-## Lead Solution Engineer
+## 🤖 Lead Solution Engineer
 
-**Dallas AI Summer Program**
+**Dallas AI Summer Program**  
 *May 2025 – August 2025 | Dallas, TX*
 
-* Led solution engineering for **Intelli AI**, an NLP-powered internal talent-matching platform
-* Developed semantic matching workflows using sentence embeddings and similarity scoring
-* Achieved **90%+ matching accuracy**
-* Built automated candidate communication workflows using the **Gmail API**
-* Collaborated with a cross-functional team to develop an end-to-end AI application
-* Presented the solution to program mentors and stakeholders
+- Led solution engineering for **Intelli AI**, an NLP-powered internal talent-matching platform.
+- Developed semantic matching workflows using sentence embeddings and similarity scoring.
+- Achieved **90%+ matching accuracy**.
+- Built automated candidate communication workflows using the Gmail API.
+- Collaborated with a cross-functional team to develop an end-to-end AI application.
+- Presented the solution to program mentors and stakeholders.
 
 ---
 
-## Cloud Support Engineer
+## ☁️ Cloud Support Engineer
 
-**Cloud4C | Client: DHL**
+**Cloud4C | Client: DHL**  
 *June 2022 – July 2024 | India*
 
-* Managed enterprise cloud infrastructure across **Microsoft Azure**
-* Performed VM provisioning, snapshots, disk expansion, image deployment, scaling, and maintenance
-* Monitored infrastructure health and alerts using **Azure Monitor and Splunk**
-* Automated repetitive operational tasks using **Python and PowerShell**
-* Collaborated with engineering, infrastructure, and Microsoft support teams
-* Supported production troubleshooting and **Root Cause Analysis (RCA)**
+- Managed enterprise cloud infrastructure across Microsoft Azure.
+- Performed VM provisioning, snapshots, disk expansion, image deployment, resource scaling, and maintenance.
+- Supported Windows and Linux environments.
+- Monitored infrastructure health and alerts using Azure Monitor and Splunk.
+- Automated repetitive operational tasks using Python and PowerShell.
+- Managed incidents and service requests through ServiceNow.
+- Collaborated with engineering and Microsoft support teams on production troubleshooting and root cause analysis.
 
 ---
 
@@ -211,41 +293,48 @@ Building AI-powered and cloud-native applications using Machine Learning, LLMs, 
 
 # 🚀 Featured Projects
 
+## ☁️ PropertyLite – AWS Cloud Deployment
+
+Cloud engineering capstone focused on deploying and operating a Flask-based application on AWS.
+
+**Key Areas**
+- EC2-based application deployment
+- Linux server configuration
+- Security group configuration
+- Application health verification
+- AWS CLI and infrastructure operations
+- Cloud resource management and cleanup
+
+**Tech:** AWS EC2 • Amazon Linux 2023 • Python • Flask • Linux • AWS CLI
+
+---
+
 ## 🛡 AI Guardian – Fraudulent Job Post Detection System
 
 AI-powered fraud detection system combining NLP, anomaly detection, and machine learning.
 
-### Technologies
+**Technologies:** Python • BERT • Isolation Forest • XGBoost • SHAP • Streamlit
 
-**Python • BERT • Isolation Forest • XGBoost • SHAP • Streamlit**
-
-### Highlights
-
-✔ Hybrid fraud detection pipeline
-
-✔ NLP + anomaly detection
-
-✔ Feature engineering and EDA
-
-✔ Explainable AI using SHAP
-
-✔ Evaluation using Precision, Recall, and F1-score
+**Highlights**
+- Hybrid fraud detection pipeline
+- NLP and anomaly detection
+- Feature engineering and exploratory analysis
+- Explainable AI using SHAP
+- Evaluation using Precision, Recall, and F1-score
 
 ---
 
 ## 📊 AI-Powered Data Scientist Agent & Explainable AI Dashboard
 
-AI-powered data analysis agent that automates end-to-end analytics and machine learning workflows.
+AI-powered data analysis agent that automates analytics and machine learning workflows.
 
-### Features
-
-* Automated Exploratory Data Analysis
-* Feature Engineering
-* Model Training
-* Model Evaluation
-* Explainable AI
-* Interactive Dashboards
-* AI-generated Analytical Insights
+**Features**
+- Automated exploratory data analysis
+- Feature engineering
+- Model training and evaluation
+- Explainable AI
+- Interactive dashboards
+- AI-generated analytical insights
 
 **Tech:** Python • Scikit-learn • Pandas • Streamlit • React • OpenAI API
 
@@ -255,15 +344,12 @@ AI-powered data analysis agent that automates end-to-end analytics and machine l
 
 Retrieval-Augmented Generation application for document-based question answering.
 
-### Features
-
-* Dynamic PDF ingestion
-* Document embedding generation
-* Semantic retrieval
-* Vector similarity search
-* Source-backed responses
-* Prompt engineering
-* Hallucination reduction
+**Features**
+- Dynamic PDF ingestion
+- Document embedding generation
+- Semantic retrieval and vector similarity search
+- Source-backed responses
+- Prompt engineering and hallucination reduction
 
 **Tech:** Python • LangChain • ChromaDB • Streamlit • Sentence Transformers • Groq API
 
@@ -273,13 +359,12 @@ Retrieval-Augmented Generation application for document-based question answering
 
 NLP-powered internal talent-matching platform developed during the Dallas AI Summer Program.
 
-### Features
-
-* Candidate-job matching
-* Semantic similarity
-* Sentence embeddings
-* Skill matching
-* Automated candidate communication
+**Features**
+- Candidate-job matching
+- Semantic similarity
+- Sentence embeddings
+- Skill matching
+- Automated candidate communication
 
 **Tech:** Python • NLP • PostgreSQL • Gmail API
 
@@ -289,13 +374,12 @@ NLP-powered internal talent-matching platform developed during the Dallas AI Sum
 
 Real-time data engineering and analytics pipeline built on Google Cloud.
 
-### Features
-
-* Real-time streaming
-* Scalable ETL workflows
-* Crime trend analysis
-* Data warehousing
-* Analytical dashboards
+**Features**
+- Streaming data processing
+- Scalable ETL workflows
+- Crime trend analysis
+- Data warehousing
+- Analytical dashboards
 
 **Tech:** PySpark • Google Cloud Dataproc • BigQuery • Cloud Storage • Python
 
@@ -305,15 +389,14 @@ Real-time data engineering and analytics pipeline built on Google Cloud.
 
 Full-stack AI web application powered by Google Gemini.
 
-### Features
-
-* AI conversational support
-* Context retention
-* Tone analysis
-* AI-assisted journaling
-* Mood tracking
-* Analytics dashboards
-* AI-generated visualizations
+**Features**
+- AI conversational support
+- Context retention
+- Tone analysis
+- AI-assisted journaling
+- Mood tracking
+- Analytics dashboards
+- AI-generated visualizations
 
 **Tech:** React • TypeScript • Google Gemini API • IndexedDB • Tailwind CSS • Recharts • Web Speech API
 
@@ -345,17 +428,19 @@ Full-stack AI web application powered by Google Gemini.
 
 # 📚 Currently Learning
 
-* Agentic AI
-* AI Agents
-* Advanced RAG Systems
-* AI Workflow Automation
-* Cloud-Native AI Applications
-* Production AI Systems
+- AWS Cloud Architecture
+- Terraform and Infrastructure as Code
+- CI/CD with GitHub Actions
+- OIDC-Based Cloud Deployments
+- Containerization and Amazon ECS
+- Cloud Monitoring and Security
+- Cost Optimization and AWS Well-Architected Practices
+- AI Agents and Advanced RAG Systems
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on **Artificial Intelligence, Machine Learning, Data Engineering, Cloud Computing, and Open Source** projects.
+I'm interested in building and collaborating on **AWS Cloud Engineering, Cloud Automation, AI, Machine Learning, Data Engineering, and Cloud-Native Applications**.
 
 ⭐ Feel free to explore my repositories and connect with me!
